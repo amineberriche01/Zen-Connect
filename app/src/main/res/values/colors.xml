@@ -1,0 +1,16 @@
+<resources>
+    <color name="primary">#4CAF50</color>
+    <color name="primaryDark">#388E3C</color>
+    <color name="accent">#FFC107</color>
+    <color name="background">#F5F5F5</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="breathCircleColor">#80D8F7</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="transparent_black">#88000000</color>
+
+
+
+</resources>

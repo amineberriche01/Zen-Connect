@@ -1,0 +1,11 @@
+<resources>
+    <!-- Nom de l'application -->
+    <string name="app_name">ZenConnect</string>
+
+    <!-- Titres pour les différentes activités -->
+    <string name="title_appointments">Appointments</string>
+    <string name="title_articles">Articles</string>
+    <string name="title_exercises">Exercises</string>
+    <string name="title_mood_tracker">Mood Tracker</string>
+    <string name="title_reminder">Reminder</string>
+</resources>

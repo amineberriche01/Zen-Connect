@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Comment vous sentez-vous aujourd'hui ?"
+        android:textSize="18sp"
+        android:paddingBottom="16dp"
+        android:gravity="center" />
+
+    <RadioGroup
+        android:id="@+id/moodGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/radioHappy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Heureux 😊" />
+
+        <RadioButton
+            android:id="@+id/radioNeutral"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Neutre 😐" />
+
+        <RadioButton
+            android:id="@+id/radioSad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Triste 😢" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/saveMoodButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enregistrer"
+        android:layout_marginTop="16dp" />
+</LinearLayout>
