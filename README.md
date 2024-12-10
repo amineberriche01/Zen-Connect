@@ -49,7 +49,7 @@ Créer une application intuitive et performante permettant de :
 - **Langage :** Kotlin
 - **IDE :** Android Studio
 - **Notifications :** Android Notification Manager
-- **Architecture :** MVVM (ou toute autre architecture pertinente selon le projet)
+
 
 ---
 
