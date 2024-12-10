@@ -55,7 +55,7 @@ Créer une application intuitive et performante permettant de :
 
 ## 📚 Contexte académique
 
-ZenConnectApp a été conçu comme un projet académique dans le cadre du module **Développement Mobile** d’un programme de **Master**. Il illustre les compétences techniques et la capacité à créer des solutions pratiques pour répondre à des besoins réels.
+ZenConnectApp a été conçu comme un projet académique dans le cadre du module **Développement Mobile** d’un programme de *Cycle d'ingénieur à l'ESILV**. Il illustre les compétences techniques et la capacité à créer des solutions pratiques pour répondre à des besoins réels.
 
 ---
 
